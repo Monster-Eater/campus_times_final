@@ -1,0 +1,1 @@
+web: gunicorn pr_campus_times.wsgi:application --log-file -
